@@ -1,6 +1,7 @@
 #pragma once
 
 #include <vector>
+using namespace std;
 
 template<class S, S(*op)(S, S), S(*e)()>
 class segtree {

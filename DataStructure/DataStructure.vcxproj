@@ -130,6 +130,9 @@
     <ClCompile Include="DataStructure.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Algorithm\SA_IS.h" />
+    <ClInclude Include="DataStructure\BinarySearchTree\AVLTree.h" />
+    <ClInclude Include="DataStructure\BinarySearchTree\BinarySearchTree.h" />
     <ClInclude Include="DataStructure\Segtree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
