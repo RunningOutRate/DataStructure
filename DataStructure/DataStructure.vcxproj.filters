@@ -32,5 +32,8 @@
     <ClInclude Include="Algorithm\SA_IS.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
+    <ClInclude Include="DataStructure\UnionFind\UnionFind.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
