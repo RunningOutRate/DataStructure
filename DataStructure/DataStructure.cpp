@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-#include "Segtree.h"
+#include "DataStructure/Segtree.h"
 
 int op(int a, int b) {
 	return min(a, b);
@@ -9,7 +9,6 @@ int op(int a, int b) {
 int e() {
 	return INT_MAX;
 }
-
 
 int main() {
 	int N, Q;

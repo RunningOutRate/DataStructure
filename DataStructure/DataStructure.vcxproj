@@ -130,7 +130,7 @@
     <ClCompile Include="DataStructure.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Segtree.h" />
+    <ClInclude Include="DataStructure\Segtree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
