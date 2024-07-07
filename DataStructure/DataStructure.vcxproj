@@ -135,6 +135,8 @@
     <ClInclude Include="DataStructure\BinarySearchTree\BinarySearchTree.h" />
     <ClInclude Include="DataStructure\Segtree.h" />
     <ClInclude Include="DataStructure\UnionFind\UnionFind.h" />
+    <ClInclude Include="N_element_BitArray.h" />
+    <ClInclude Include="PrefixSumHandler.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
