@@ -4,6 +4,7 @@
 #include <vector>
 using namespace std;
 
+
 class N_element_BitArray {
 public:
     N_element_BitArray(int len, int dim, uint64_t init = 0) {
