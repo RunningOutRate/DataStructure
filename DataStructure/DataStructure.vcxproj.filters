@@ -38,7 +38,7 @@
     <ClInclude Include="PrefixSumHandler.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="N_element_BitArray.h">
+    <ClInclude Include="DataStructure\N_element_BitArray.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
